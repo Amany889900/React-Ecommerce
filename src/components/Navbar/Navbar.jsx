@@ -71,7 +71,7 @@ const Navbar = () => {
                   
                     {token?<>
                         <li className='mx-2 my-2 md:my-0'>
-                        <button onClick={logOut}>Logout</button>
+                        
                     </li>
                     </>:<>
                     <li className='mx-2 my-2 md:my-0'>
